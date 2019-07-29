@@ -195,7 +195,7 @@ Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com
 [![Bakers](https://opencollective.com/bootstrap/backers.svg?width=890)](https://opencollective.com/bootstrap#backers)
 
 
-## Sponsors
+## 
 
 Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/bootstrap#sponsor)]
 
